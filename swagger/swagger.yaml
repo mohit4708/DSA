@@ -1,0 +1,6 @@
+openapi: 3.0.0
+info:
+  version: 1.0.1
+  title: ''
+  description: 'this OpenAPI spec is going to be synced in Github swagger folder of repository name test_demo tt and this edit is being done by me on GitHub and i don'
+paths: {}
