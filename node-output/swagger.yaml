@@ -1,0 +1,15 @@
+openapi: 3.0.0
+info:
+  title: ""
+  description: ""
+  version: 2.0.1
+servers:
+- url: https://virtserver.swaggerhub.com/mmm-ba4/API2/2.0.1
+  description: SwaggerHub API Auto Mocking
+paths:
+  /example:
+    get:
+      responses:
+        "200":
+          description: OK
+components: {}
